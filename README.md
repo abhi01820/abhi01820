@@ -68,3 +68,60 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 
 ---
 
+### 💻 Programming Languages
+
+| Python                                                       | C++                                                       | Java                                                       | JavaScript                                                       |
+| ------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=python" width="55"> | <img src="https://skillicons.dev/icons?i=cpp" width="55"> | <img src="https://skillicons.dev/icons?i=java" width="55"> | <img src="https://skillicons.dev/icons?i=javascript" width="55"> |
+
+### 🎨 Frontend Development
+
+| React.js                                                    | Next.js                                                      | HTML5                                                      | CSS3                                                      | Tailwind CSS                                                   |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=react" width="55"> | <img src="https://skillicons.dev/icons?i=nextjs" width="55"> | <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://skillicons.dev/icons?i=tailwind" width="55"> |
+
+### ⚙️ Backend Development
+
+| Node.js                                                      | Express.js                                                    | FastAPI                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="55"> | <img src="https://skillicons.dev/icons?i=express" width="55"> | <img src="https://skillicons.dev/icons?i=fastapi" width="55"> |
+
+### 🗄️ Databases
+
+| MongoDB | MySQL |
+|----------|----------|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="55"> | <img src="https://skillicons.dev/icons?i=mysql" width="55"> |
+
+### 🤖 AI / Machine Learning
+
+* Machine Learning
+* ML Pipelines
+* Gemini API
+* Vapi AI
+* AI Agents
+* Prompt Engineering
+
+### 🚀 MLOps & Deployment
+
+| Docker                                                       | GitHub Actions                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=docker" width="55"> | <img src="https://skillicons.dev/icons?i=githubactions" width="55"> |
+
+**Additional Tools:** DVC • MLflow • CI/CD
+
+### 🔧 Tools
+
+| Git                                                       | GitHub                                                       | VS Code                                                      | Postman                                                       |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=git" width="55"> | <img src="https://skillicons.dev/icons?i=github" width="55"> | <img src="https://skillicons.dev/icons?i=vscode" width="55"> | <img src="https://skillicons.dev/icons?i=postman" width="55"> |
+
+### 📚 Core Concepts
+
+* Data Structures & Algorithms (C++)
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+* RESTful APIs
+* System Design Fundamentals
+
+---
+
