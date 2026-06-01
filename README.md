@@ -131,3 +131,65 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 | 📩 **Spam Detection Pipeline**    | Python, AWS S3, DVC                                         | [GitHub](https://github.com/abhi01820/Spam-Detection-Pipeline-using-DVC-AWS-S3)                                                 |
 
 ---
+
+
+# 💼 Professional Experience
+
+## Full Stack Developer Intern
+
+### Aetherpro Healthcare Private Limited | Remote
+
+📅 **July 2025 – August 2025**
+
+* Developed and maintained scalable healthcare platform modules using **Next.js, React.js, Node.js, and Express.js**.
+* Designed and optimized **RESTful APIs**, improving application performance and responsiveness.
+* Built responsive and user-centric interfaces across multiple devices.
+* Collaborated in an agile environment and contributed to production-ready features.
+* Worked with **GitHub**, **Vercel**, and modern deployment workflows.
+
+### 🛠️ Technologies Used
+
+`Next.js` `React.js` `Node.js` `Express.js` `JavaScript` `GitHub` `Vercel`
+
+### 📜 Certificate
+
+🔗 https://drive.google.com/file/d/1IyN2cQCDN948ZRLn6N735rN2M-q0GdOd/view
+
+---
+
+
+
+# 🏆 Achievements & Certifications
+
+### 🎯 Coding Achievements
+
+* 🔥 Solved **590+ Data Structures & Algorithms** problems on **LeetCode**
+
+  * 🔗 Profile: https://leetcode.com/u/abhi_01820/
+
+* 🚀 Solved **520+ Data Structures & Algorithms** problems on **GeeksforGeeks**
+
+  * 🔗 Profile: https://www.geeksforgeeks.org/profile/johnab04hg
+
+* 🏅 Successfully completed **GFG 160 – 160 Days of Problem Solving Challenge**
+
+  * 🔗 Certificate: https://drive.google.com/file/d/1d0LesuOYsFCV80cVZvy79uSTemD9j-N8/view
+
+---
+
+### 📜 Certifications
+
+#### ☁️ Oracle Cloud Infrastructure AI Foundations Associate (2025)
+
+🔗 https://drive.google.com/file/d/1Z02GNvqDZsDZ0dz8Em7b8ff0h5VzYtrl/view
+
+#### 📊 Data Science Foundation Certification – Infosys Springboard (2025)
+
+🔗 https://drive.google.com/file/d/1Z4ODwv4FyXxBSATI61aqrALx8budJyzE/view
+
+#### 💻 Data Structures & Algorithms (C++) – GeeksforGeeks
+
+🔗 https://drive.google.com/file/d/1d0LesuOYsFCV80cVZvy79uSTemD9j-N8/view
+
+
+---
