@@ -36,17 +36,18 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 * 🌱 Currently learning **AI Agents, Cloud Technologies, System Design, and Advanced MLOps**
 
 ---
+
 ## 📬 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/abhi01820">
 <img src="https://img.shields.io/badge/GitHub-abhi01820-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/abhi_01820/">
 <img src="https://img.shields.io/badge/LeetCode-abhi__01820-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/profile/johnab04hg">
 <img src="https://img.shields.io/badge/GeeksforGeeks-johnab04hg-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
@@ -60,15 +61,15 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 
 <a href="https://arc-abhi-folio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/abhilash-mekala-b2a903355/">
 <img src="https://img.shields.io/badge/LinkedIn-Mekala%20Abhilash-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/abhilash_01820">
 <img src="https://img.shields.io/badge/Twitter-abhilash__01820-000000?style=flat-square&logo=x&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/abhi_01820/">
 <img src="https://img.shields.io/badge/Instagram-abhi__01820-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
@@ -81,6 +82,7 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 📧 **Email:** [mekalaabhilash01820@gmail.com](mailto:mekalaabhilash01820@gmail.com)
 
 ---
+
 
 
 
