@@ -30,7 +30,7 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 
 * 🎓 B.Tech Computer Science Engineering Student at **CBIT Hyderabad**
 * 💼 Former **Full Stack Developer Intern @ Aetherpro Healthcare**
-* 🤖 Interested in **Full Stack Development Artificial Intelligence, Machine Learning and  MLOps.**
+* 🤖 Interested in **Full Stack Development , Artificial Intelligence, Machine Learning and  MLOps.**
 * 🌐 Experienced in building **AI Applications, Real-Time Systems, and Scalable Backend Architectures**
 * 🚀 Passionate about developing production-ready software that creates real-world impact
 * 🌱 Currently learning **AI Agents, Cloud Technologies, System Design, and Advanced MLOps**
