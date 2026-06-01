@@ -1,8 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Mekala Abhilash
+# 👋 Hi, I'm [Mekala Abhilash ↗️](https://arc-abhi-folio.vercel.app/)
+
+<p align="center">
+  <a href="https://arc-abhi-folio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge" />
+  </a>
+</p>
 
 ### Full Stack Developer | AI Engineer | MLOps Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=300&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Developing+Scalable+Full-Stack+Systems;Exploring+AI+Agents+and+MLOps;Creating+Production-Ready+Solutions;Always+Learning+Always+Building" alt="Typing SVG" />
 
 <p align="center">
 Computer Science Engineering student at <b>CBIT Hyderabad</b> with experience in building
@@ -11,9 +18,9 @@ Passionate about solving real-world problems through technology and continuously
 Artificial Intelligence, Machine Learning, MLOps, and modern software architectures.
 </p>
 
-<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Developing+Scalable+Full-Stack+Systems;Passionate+About+Machine+Learning;Exploring+MLOps+and+Cloud+Technologies;Creating+Production-Ready+Solutions;Always+Learning+Always+Building" alt="Typing SVG" />
+
+
 
 </div>
 
@@ -229,6 +236,18 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 <img src="https://github-profile-trophy.vercel.app/?username=abhi01820&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
+
+---
+
+
+# 🎯 Current Focus
+
+* 🤖 Building AI-Powered Applications and Intelligent Assistants
+* 🚀 Exploring AI Agents, RAG Systems, and Generative AI
+* ☁️ Learning Cloud Technologies, MLOps, and Scalable Deployments
+* 📚 Strengthening System Design and Software Architecture Concepts
+* 💻 Continuously Solving Data Structures & Algorithms Problems
+* 🌱 Developing Production-Ready Full Stack Applications
 
 ---
 
