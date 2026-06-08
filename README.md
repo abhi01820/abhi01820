@@ -199,7 +199,7 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 
 ### 🎯 Coding Achievements
 
-* 🔥 Solved **590+ Data Structures & Algorithms** problems on **LeetCode**
+* 🔥 Solved **600+ Data Structures & Algorithms** problems on **LeetCode**
 
   * 🔗 Profile: https://leetcode.com/u/abhi_01820/
 
