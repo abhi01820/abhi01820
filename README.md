@@ -111,7 +111,6 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
 
 ### 🤖 AI / Machine Learning
