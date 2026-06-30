@@ -85,64 +85,73 @@ Artificial Intelligence, Machine Learning, MLOps, and modern software architectu
 
 
 
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
 
 ### 🤖 AI / Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
-![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-4285F4?style=flat-square)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square)
-![Vapi AI](https://img.shields.io/badge/Vapi_AI-00C853?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-E91E63?style=flat-square)
+![Natural Language Processing](https://img.shields.io/badge/NLP-4CAF50?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-673AB7?style=flat-square)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-3F51B5?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF4081?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=flat-square)
 
+### 🧠 AI Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=flat-square)
 ### 🚀 MLOps & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF5722?style=flat-square)
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### 📚 Core Concepts
 
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-C++-00599C?style=flat-square)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-673AB7?style=flat-square)
+![Object Oriented Programming](https://img.shields.io/badge/OOP-673AB7?style=flat-square)
 ![DBMS](https://img.shields.io/badge/DBMS-009688?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-795548?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-3F51B5?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF9800?style=flat-square)
 
 ---
