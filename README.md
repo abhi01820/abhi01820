@@ -8,14 +8,13 @@
   </a>
 </p>
 
-### Full Stack Developer | AI Engineer | MLOps Enthusiast
+### Full Stack Developer | AI Engineer | Generative AI | Agentic AI
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=300&color=36BCF7&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Developing+Scalable+Full-Stack+Systems;Exploring+AI+Agents+and+MLOps;Creating+Production-Ready+Solutions;Always+Learning+Always+Building" alt="Typing SVG" />
 
 <p align="center">
 Computer Science Engineering student at <b>CBIT Hyderabad</b> with experience in building
 <b>AI-powered applications</b>, <b>real-time systems</b>, and <b>scalable full-stack solutions</b>.
-Passionate about solving real-world problems through technology and continuously exploring
-Artificial Intelligence, Machine Learning, MLOps, and modern software architectures.
+Passionate about building production-ready AI systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and scalable Full Stack architectures. I enjoy solving real-world problems through Generative AI and modern software engineering.
 </p>
 
 
