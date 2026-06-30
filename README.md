@@ -32,7 +32,7 @@ Passionate about building production-ready AI systems using Large Language Model
 * 🤖 Interested in **Full Stack Development , Artificial Intelligence, Machine Learning and  MLOps.**
 * 🌐 Experienced in building **AI Applications, Real-Time Systems, and Scalable Backend Architectures**
 * 🚀 Passionate about developing production-ready software that creates real-world impact
-* 🌱 Currently learning **AI Agents, Cloud Technologies, System Design, and Advanced MLOps**
+* 🌱 Currently building production-grade AI applications using LLMs, RAG, AI Agents, and modern MLOps practices.**
 
 ---
 
@@ -207,7 +207,7 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ### 🎯 Coding Achievements
 
-* 🔥 Solved **630+ Data Structures & Algorithms** problems on **LeetCode**
+* 🔥 Solved **650+ Data Structures & Algorithms** problems on **LeetCode**
 
   * 🔗 Profile: https://leetcode.com/u/abhi_01820/
 
