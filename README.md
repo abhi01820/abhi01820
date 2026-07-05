@@ -159,19 +159,21 @@ Passionate about building production-ready AI systems using Large Language Model
 ---
 
 
-
 # 🌟 Featured Projects
 
-| Project                           | Tech Stack                                                  | Links                                                                                                                           |
-| --------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 🎤 **AI Voice Mock Interview**    | Next.js, React, Firebase, Tailwind CSS, Vapi AI, Gemini API | [GitHub](https://github.com/abhi01820/AI_Voice_Mock_Interview) • [Live Demo](https://ai-mock-interview-three-kappa.vercel.app/) |
-| 🏥 **AI Voice Medical Assistant** | Next.js, Tailwind CSS, Vapi AI, Gemini API, Clerk, NeonDB   | [GitHub](https://github.com/abhi01820/AI_Voice_Medical_Agent) • [Live Demo](https://ai-voice-medical-agent-y2na.vercel.app/)    |
-| 💬 **BuddyChat**                  | React.js, Node.js, Express.js, MongoDB, Stream SDK          | [GitHub](https://github.com/abhi01820/BuddyChat) • [Live Demo](https://buddychat-i9qy.onrender.com/)                            |
-| 📚 **Online Book Store**          | MongoDB, Express.js, React.js, Node.js                      | [GitHub](https://github.com/abhi01820/ONLINE-BOOKSTORE) • [Live Demo](https://online-bookstore-vblc.onrender.com/)              |
-| 🚗 **Vehicle Insurance MLOps**    | Python, FastAPI, Docker, DVC, MLflow, GitHub Actions        | [GitHub](https://github.com/abhi01820/vehicle-insurance-mlops)                                                                  |
-| 🏥 **MediGuide AI**               | JavaScript, OCR, NLP                                        | [GitHub](https://github.com/abhi01820/MediGuide_AI)                                                                             |
-| 🎓 **Education Analytics MLOps**  | Python, Docker, DVC, MLflow                                 | [GitHub](https://github.com/abhi01820/Education-Analytics-mlops)                                                                |
-| 📩 **Spam Detection Pipeline**    | Python, AWS S3, DVC                                         | [GitHub](https://github.com/abhi01820/Spam-Detection-Pipeline-using-DVC-AWS-S3)                                                 |
+| Project                                         | Tech Stack                                                            | Links                                                                                                                           |
+| ----------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 📊 **LangChain SQL Data Analyst**               | LangChain, HuggingFace, Streamlit, SQLite, SQLAlchemy, Pandas, Plotly | [GitHub](https://github.com/abhi01820/LangChain-SQL-Data-Analyst)                                                               |
+| 🔎 **Multi-Agent AI Research System**           | LangChain, Google Gemini, Tavily API, BeautifulSoup, Streamlit        | [GitHub](https://github.com/abhi01820/Multi-Agent-AI-Research-System)                                                           |
+| 📄 **AI Research Paper Analysis & RAG Chatbot** | LangChain, Groq, HuggingFace Embeddings, FAISS, Flask, RAG            | [GitHub](https://github.com/abhi01820/AI-Research-Paper-Analysis-ChatBOT)                                                       |
+| 🚗 **Vehicle Insurance MLOps System**           | Python, FastAPI, Docker, DVC, MLflow, GitHub Actions                  | [GitHub](https://github.com/abhi01820/vehicle-insurance-mlops)                                                                  |
+| 🎤 **AI Voice Mock Interview Platform**         | Next.js, React, Firebase, Tailwind CSS, Vapi AI, Gemini API           | [GitHub](https://github.com/abhi01820/AI_Voice_Mock_Interview) • [Live Demo](https://ai-mock-interview-three-kappa.vercel.app/) |
+| 🏥 **AI Voice Medical Assistant**               | Next.js, Tailwind CSS, Vapi AI, Gemini API, Clerk, NeonDB             | [GitHub](https://github.com/abhi01820/AI_Voice_Medical_Agent) • [Live Demo](https://ai-voice-medical-agent-y2na.vercel.app/)    |
+| 🩺 **MediGuide AI**                             | React.js, Node.js, FastAPI, MongoDB, OCR, NLP                         | [GitHub](https://github.com/abhi01820/MediGuide_AI)                                                                             |
+| 🎓 **Education Analytics MLOps**                | Python, Docker, DVC, MLflow                                           | [GitHub](https://github.com/abhi01820/Education-Analytics-mlops)                                                                |
+| 📩 **Spam Detection MLOps Pipeline**            | Python, AWS S3, DVC, Machine Learning                                 | [GitHub](https://github.com/abhi01820/Spam-Detection-Pipeline-using-DVC-AWS-S3)                                                 |
+| 💬 **BuddyChat**                                | React.js, Node.js, Express.js, MongoDB, Stream SDK                    | [GitHub](https://github.com/abhi01820/BuddyChat) • [Live Demo](https://buddychat-i9qy.onrender.com/)                            |
+| 📚 **Online Book Store**                        | MongoDB, Express.js, React.js, Node.js                                | [GitHub](https://github.com/abhi01820/ONLINE-BOOKSTORE) • [Live Demo](https://online-bookstore-vblc.onrender.com/)              |
 
 ---
 
