@@ -224,6 +224,10 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ### 📜 Certifications
 
+#### 🤖 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+
+🔗 https://drive.google.com/file/d/1asYxo9cKT63H1sgJwMfFCvTvMhz9wjjF/view
+
 #### ☁️ Oracle Cloud Infrastructure AI Foundations Associate (2025)
 
 🔗 https://drive.google.com/file/d/1Z02GNvqDZsDZ0dz8Em7b8ff0h5VzYtrl/view
