@@ -127,7 +127,6 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=flat-square)
 ### 🚀 MLOps & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -208,9 +207,11 @@ Passionate about building production-ready AI systems using Large Language Model
 
 ### 🎯 Coding Achievements
 
-* 🔥 Solved **650+ Data Structures & Algorithms** problems on **LeetCode**
+* 🔥 Solved **700+ Data Structures & Algorithms** problems on **LeetCode**
 
   * 🔗 Profile: https://leetcode.com/u/abhi_01820/
+ 
+* 🏅 Earned the **LeetCode 500 Days Badge** for maintaining long-term coding consistency.
 
 * 🚀 Solved **520+ Data Structures & Algorithms** problems on **GeeksforGeeks**
 
