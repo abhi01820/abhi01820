@@ -259,15 +259,12 @@ Passionate about building production-ready AI systems using Large Language Model
 ---
 
 
-<div align="center">
+<div align="center">💭 Developer Philosophy
 
-### 💭 Developer Philosophy
+"Built through adversity. Defined by resilience."
 
-> **"Some connections timeout, some systems fail, but the best engineers keep building."**
+ARC — Adversity • Resilience • Character
 
-<br>
-
-⭐ Thanks for visiting my profile!
+<br>⭐ Thanks for visiting my profile!
 
 </div>
-
